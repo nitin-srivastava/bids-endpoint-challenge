@@ -28,3 +28,6 @@
 
 # RubyMine IDE
 .idea/*
+
+# Ignore coverage files
+/coverage/*

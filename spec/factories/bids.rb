@@ -2,9 +2,9 @@
 
 FactoryBot.define do
   factory :bid do
-    country { 'us' }
-    category { 'categ1' }
-    channel { 'ca' }
+    country { "us" }
+    category { "categ1" }
+    channel { "ca" }
     amount { 9.99 }
   end
 end
